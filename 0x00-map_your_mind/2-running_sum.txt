@@ -1,0 +1,9 @@
+ create a variable to keep track of the running sum/tally
+create a new int[] array to store our updated values
+iterate through the nums array
+    for every iteration, increment the running sum
+    then update the value of the current index to be the running sum
+    if an element in the array is negative
+    stop
+
+return the array of running sums

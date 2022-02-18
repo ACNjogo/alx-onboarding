@@ -1,0 +1,5 @@
+Step 1: Start
+Step 2: declare variables a, b, c, d, e, etc
+step 4: square variables
+step 5: save squared variables into new variables sqA,sqB,sqC etc
+step 6: sums squared values and put them in to variable sqSum
